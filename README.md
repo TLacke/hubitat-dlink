@@ -1,2 +1,3 @@
 # hubitat-dlink
-Driver for D-Link DCH-Z310
+Driver for:
+  D-Link DCH-Z310
